@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:HotFixBranchI" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:HotFixBranchI" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:HotFixBranchI/TailFix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b994a764-433c-4441-9af3-d249ee07e92e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameServer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameWindow.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="2c6567f1-6785-4ff8-9fa8-3924137d8d64" />
+  <component name="ProjectId" id="1lKW97lyMS73UdKNDGY10Vt63zj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\DRS2020\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Start">
+    <configuration name="GameMode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DRS2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GameMode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GameWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DRS2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GameWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DRS2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DRS2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DRS2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.GameMode" />
+      <item itemvalue="Python.GameWindow" />
+      <item itemvalue="Python.Settings" />
+      <item itemvalue="Python.Start" />
+      <item itemvalue="Python.TestFile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Start" />
+        <item itemvalue="Python.GameMode" />
+        <item itemvalue="Python.GameWindow" />
+        <item itemvalue="Python.TestFile" />
+        <item itemvalue="Python.Settings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b994a764-433c-4441-9af3-d249ee07e92e" name="Default Changelist" comment="" />
+      <created>1607346108598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607346108598</updated>
+      <workItem from="1607346123325" duration="242000" />
+      <workItem from="1607772050307" duration="14000" />
+      <workItem from="1607772098609" duration="71000" />
+      <workItem from="1607950847830" duration="5061000" />
+      <workItem from="1607969720154" duration="20176000" />
+      <workItem from="1608055835725" duration="9502000" />
+      <workItem from="1608066352463" duration="10620000" />
+      <workItem from="1608077186024" duration="490000" />
+      <workItem from="1608128773299" duration="31769000" />
+      <workItem from="1608198947022" duration="2684000" />
+      <workItem from="1608285020324" duration="10496000" />
+      <workItem from="1608757878900" duration="2882000" />
+      <workItem from="1608902787079" duration="4393000" />
+      <workItem from="1608908188114" duration="8752000" />
+      <workItem from="1608917238931" duration="507000" />
+      <workItem from="1608917778237" duration="160000" />
+      <workItem from="1608918074163" duration="2684000" />
+      <workItem from="1608924933278" duration="1949000" />
+      <workItem from="1608927168381" duration="1939000" />
+      <workItem from="1608930657159" duration="3119000" />
+      <workItem from="1609006876067" duration="37000" />
+      <workItem from="1610194415194" duration="1020000" />
+      <workItem from="1610196933819" duration="697000" />
+      <workItem from="1610197643952" duration="20162000" />
+      <workItem from="1610219451699" duration="617000" />
+      <workItem from="1610220995258" duration="2007000" />
+      <workItem from="1610277875111" duration="14746000" />
+      <workItem from="1610293217107" duration="7943000" />
+      <workItem from="1610377197338" duration="4004000" />
+      <workItem from="1610381746785" duration="6206000" />
+      <workItem from="1610390154122" duration="2414000" />
+      <workItem from="1610393397349" duration="8175000" />
+      <workItem from="1610452516709" duration="4114000" />
+      <workItem from="1610459832490" duration="1125000" />
+      <workItem from="1610461410198" duration="4583000" />
+      <workItem from="1610467872107" duration="2534000" />
+      <workItem from="1610472275769" duration="635000" />
+      <workItem from="1610474579303" duration="832000" />
+      <workItem from="1610551179173" duration="5389000" />
+      <workItem from="1610558555557" duration="3719000" />
+      <workItem from="1610562699225" duration="166000" />
+      <workItem from="1610619423524" duration="339000" />
+      <workItem from="1610652499522" duration="1724000" />
+      <workItem from="1610704536810" duration="2835000" />
+      <workItem from="1610708783641" duration="23727000" />
+      <workItem from="1610803826011" duration="2148000" />
+      <workItem from="1610806210347" duration="5350000" />
+      <workItem from="1611761358360" duration="2607000" />
+      <workItem from="1611770619405" duration="5634000" />
+      <workItem from="1611955895028" duration="404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HotFixBranchI/TailFix" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610208859282">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610208859282" />
+    <state width="697" height="466" key="DebuggerActiveHint" timestamp="1608918475449">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="697" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608918475449" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1610197829648">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610197829648" />
+    <state width="1259" height="118" key="GridCell.Tab.0.bottom" timestamp="1611790841909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="118" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611790841908" />
+    <state width="1877" height="432" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611776411747" />
+    <state width="1877" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611763980193" />
+    <state width="1259" height="118" key="GridCell.Tab.0.center" timestamp="1611790841908">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="118" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611790841908" />
+    <state width="1877" height="432" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611776411747" />
+    <state width="1877" height="191" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611763980193" />
+    <state width="1259" height="118" key="GridCell.Tab.0.left" timestamp="1611790841908">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="118" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611790841908" />
+    <state width="1877" height="432" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611776411747" />
+    <state width="1877" height="191" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611763980193" />
+    <state width="1259" height="118" key="GridCell.Tab.0.right" timestamp="1611790841908">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="118" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611790841908" />
+    <state width="1877" height="432" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611776411747" />
+    <state width="1877" height="191" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611763980193" />
+    <state width="1877" height="180" key="GridCell.Tab.1.bottom" timestamp="1610735845178">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610735845178" />
+    <state width="1877" height="180" key="GridCell.Tab.1.center" timestamp="1610735845178">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610735845178" />
+    <state width="1877" height="180" key="GridCell.Tab.1.left" timestamp="1610735845178">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610735845178" />
+    <state width="1877" height="180" key="GridCell.Tab.1.right" timestamp="1610735845178">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610735845178" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1608918918593">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608918918593" />
+    <state x="512" y="275" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608919081330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="512" y="275" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608919081330" />
+    <state x="-1697" y="0" width="1613" height="848" key="dock-window-1" timestamp="1610280196936">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1697" y="0" width="1613" height="848" key="dock-window-1/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610280196936" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1611763907897">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611763907897" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties exception="BaseException" />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
